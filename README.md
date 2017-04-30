@@ -2,4 +2,5 @@
 
 
 GraphQl diagram:
-[Imgur](http://i.imgur.com/MGDgNIG.png)
+[Imgur]()
+![alt text](http://i.imgur.com/MGDgNIG.png "Logo Title Text 1")
