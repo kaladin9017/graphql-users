@@ -6,7 +6,8 @@ A mock graphql-express server. Built to experiment with graphql.
 npm i
 npm run json:server
 npm run dev
-```Navigate to localhost:3000/graphql
+```
+Navigate to localhost:3000/graphql
 
 
 
