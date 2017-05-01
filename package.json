@@ -4,14 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon srcServer.js",
+    "json:server": "json-server --watch db.json"
   },
   "author": "christopher sancho",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.16.1",
     "express": "^4.15.2",
     "express-graphql": "^0.6.4",
     "graphql": "^0.9.5",
-    "lodash": "^4.17.4"
+    "json-server": "^0.10.0",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.11.0"
   }
 }
